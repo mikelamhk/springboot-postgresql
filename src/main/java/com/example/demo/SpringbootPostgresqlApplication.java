@@ -8,5 +8,7 @@ public class SpringbootPostgresqlApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootPostgresqlApplication.class, args);
+		
+		//
 	}
 }
